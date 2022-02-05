@@ -5,7 +5,7 @@ $email=$_POST['email'];
 $subject=$_POST['subject'];
 $message=$_POST['message'];
 
-$conn= new mysqli('localhost','root','','flowhite');
+$conn= new mysqli('localhost','u593948691_root','Flowhite@4321','u593948691_flowhite');
 
 if($conn->connect_error)
 {
