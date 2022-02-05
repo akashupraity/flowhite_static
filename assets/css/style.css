@@ -2495,7 +2495,7 @@ span.email-notes {
   text-decoration: underline;
 }
 .values .card:hover .card-body {
-  background: #ff5821;
+  background: #3EC1D5;
 }
 .values .card:hover .read-more a, .values .card:hover .card-title, .values .card:hover .card-title a, .values .card:hover .card-text {
   color: #fff;
@@ -2961,7 +2961,7 @@ text-align: left;
   color: #4ad1e5;
 }
 .animated {
-  /* background-image: url('/assets/img/hero-carousel/flow.jpg'); */
+  /* background-image: url('.../assets/img/hero-carousel/flow.jpg'); */
   background-color: rgb(34 34 34);
   border-top: 3px solid #3EC1D5 ;
   border-bottom: 3px solid #3EC1D5 ; 
