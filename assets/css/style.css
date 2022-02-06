@@ -234,8 +234,8 @@ div#preloader {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #2a2a2a ;
-  border-bottom: 1px solid  #3EC1D5;
+  background: black ;
+  border-bottom: 1px solid  white;
 }
 #header.header-scrolled #crew{
   /* background: rgb(0 7 28 / 67%); */
@@ -357,6 +357,7 @@ div#preloader {
 .navbar a:hover,  .navbar .active:focus, .navbar li:hover > a {
   color:rgb(0, 238, 255);
 }
+
 .navbar .active{
   color:rgb(0, 238, 255);
 }
@@ -3041,7 +3042,7 @@ text-align: left;
   margin: 0 0 30px 0;
 }
 .why-us .icon-boxes .icon-box p {
-  font-size: 15px;
+  font-size: 12px;
   color: #716f6f;
 }
 #main-image{
