@@ -551,7 +551,7 @@ div#preloader {
 }
 #hero .carousel-item::before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.274);
 }
 #hero .carousel-container {
   display: flex;
@@ -2495,7 +2495,7 @@ span.email-notes {
   text-decoration: underline;
 }
 .values .card:hover .card-body {
-  background: #3EC1D5;
+  background: #00507e;
 }
 .values .card:hover .read-more a, .values .card:hover .card-title, .values .card:hover .card-title a, .values .card:hover .card-text {
   color: #fff;
@@ -2962,9 +2962,9 @@ text-align: left;
 }
 .animated {
   /* background-image: url('.../assets/img/hero-carousel/flow.jpg'); */
-  background-color: rgb(34 34 34);
-  border-top: 3px solid #3EC1D5 ;
-  border-bottom: 3px solid #3EC1D5 ; 
+  background-color: #00507e;
+  border-top: 3px solid #00507e ;
+  border-bottom: 3px solid #00507e ; 
     top: 36%;
     position: relative;
     padding-top: 2%;
@@ -2985,7 +2985,7 @@ text-align: left;
 
 .why-us .content {
   padding: 30px;
-  background: #3EC1D5;
+  background: #00507e;
   border-radius: 4px;
   color: #fff;
 }
@@ -2993,9 +2993,11 @@ text-align: left;
   font-weight: 700;
   font-size: 34px;
   margin-bottom: 30px;
+  color: white;
 }
 .why-us .content p {
   margin-bottom: 30px;
+  color: #fff;
 }
 .why-us .content .more-btn {
   display: inline-block;
@@ -3026,7 +3028,7 @@ text-align: left;
 }
 .why-us .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #3EC1D5;
+  color: #00507e;
   margin-bottom: 30px;
 }
 .why-us .icon-boxes .icon-box h4 {
@@ -3037,4 +3039,8 @@ text-align: left;
 .why-us .icon-boxes .icon-box p {
   font-size: 15px;
   color: #716f6f;
+}
+#main-image{
+  height: auto;
+  width:100% ;
 }
